@@ -1,19 +1,14 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Elkaddiri+%F0%9F%91%8B;DevSecOps+%26+Cloud+Engineer;AI+%2F+ML+Practitioner;MSc+Computer+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mohamed+Elkaddiri+%F0%9F%91%8B;DevSecOps+%26+Cloud+Engineer;AI+%2F+ML+Practitioner;MSc+Computer+Science" alt="Typing SVG" />
   </a>
 </h1>
 <p align="center">
-  <a href="mailto:elka.mohamed99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/elkaddiri-m/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/M07amedinc">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="mailto:elka.mohamed99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/elkaddiri-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/M07amedinc"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
 🚀 About Me
 🎓 MSc Computer Science & Technology at Ulster University, Birmingham
 🏠 Based in Birmingham, UK
@@ -21,10 +16,7 @@
 ☁️ DevSecOps Engineer with hands-on experience across AWS, Azure, and VMware
 🤖 Passionate about AI, Machine Learning, Data Science, and Cloud Infrastructure
 ⚡ I love building systems that learn, scale, and solve real problems
-🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M07amedinc&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+
 💼 Experience Highlights
 DevSecOps Engineer @ Teal Technology Services (Mar 2024 - Dec 2025)
 Deployed VMware Cloud with NSX micro-segmentation across 15+ virtual networks
@@ -37,6 +29,7 @@ Maintained Jenkins/Docker CI/CD pipelines running 100+ builds per month
 IT Support Engineer @ OCP Laayoune (Jul 2022 - Sep 2022)
 Managed 30+ enterprise servers and core network infrastructure, sustaining 99%+ uptime
 Configured DHCP and DNS for a network supporting 100+ end users
+
 🏅 Achievements & Badges
 <p align="center">
   <a href="https://www.credly.com/badges/e2ef39dc-14f0-41a0-9a4b-ccdf87d73110/public_url">
@@ -49,6 +42,7 @@ Configured DHCP and DNS for a network supporting 100+ end users
 </p>
 🥇 Best Computing Project Award - QA Ltd (Sep 2026)
 🏅 DataForward Hackathon 2026 - Participation Credential - QA Ltd (Sep 2026)
+
 🛠️ Tech Stack
 Languages
 <p>
@@ -101,7 +95,8 @@ Databases & Tools
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
-📊 Stats and Activity
+
+📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M07amedinc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M07amedinc&layout=compact&theme=tokyonight&hide_border=true" height="180" />
@@ -109,6 +104,7 @@ Databases & Tools
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M07amedinc&theme=tokyonight&hide_border=true" />
 </p>
+
 🎓 Education
 MSc Computer Science & Technology - Ulster University, Birmingham (Jan 2026 - Present)
 Machine Learning, Deep Learning, Data Science, Big Data Technologies, Statistical Modelling
@@ -116,19 +112,23 @@ MSc Cloud Computing & AI Systems - ENSIAS, Mohammed V University, Rabat, Morocco
 AI-driven system design, cloud architecture, distributed computing
 Engineering Degree, Telecommunications & Networks - ENSA, Safi, Morocco (2018 - 2024)
 Networking, distributed systems, Linux administration, virtualisation
+
 🎯 Current Focus
 🔬 Research: Metaheuristics for cloud resource optimisation & AI-driven auto-scaling
 📚 Learning: Advanced RL, MLOps, and distributed systems
 🌍 Open to opportunities across UK, Europe, and USA
+
 🌐 Languages
 Arabic - Native
 🇬🇧 English - Fluent
 🇫🇷 French - Fluent
 🇪🇸 Spanish - Basic
+
 📫 Let's Connect
 I'm always open to collaborating on interesting projects, research ideas, or just having a chat about tech.
 📧 Email: elka.mohamed99@gmail.com
 💼 LinkedIn: linkedin.com/in/elkaddiri-m
+
 <p align="center">
   <i>"Build systems that learn, scale, and make an impact."</i>
 </p>
