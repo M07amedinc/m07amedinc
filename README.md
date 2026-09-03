@@ -1,7 +1,8 @@
-<h1 align="center">Hi, I'm Mohamed Elkaddiri 👋</h1>
-<p align="center">
-  <b>DevSecOps & Cloud Engineer</b> | <b>AI / ML Practitioner</b> | <b>MSc Computer Science</b>
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Elkaddiri+%F0%9F%91%8B;DevSecOps+%26+Cloud+Engineer;AI+%2F+ML+Practitioner;MSc+Computer+Science" alt="Typing SVG" />
+  </a>
+</h1>
 <p align="center">
   <a href="mailto:elka.mohamed99@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -20,6 +21,10 @@
 ☁️ DevSecOps Engineer with hands-on experience across AWS, Azure, and VMware
 🤖 Passionate about AI, Machine Learning, Data Science, and Cloud Infrastructure
 ⚡ I love building systems that learn, scale, and solve real problems
+🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=M07amedinc&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 💼 Experience Highlights
 DevSecOps Engineer @ Teal Technology Services (Mar 2024 - Dec 2025)
 Deployed VMware Cloud with NSX micro-segmentation across 15+ virtual networks
@@ -32,7 +37,7 @@ Maintained Jenkins/Docker CI/CD pipelines running 100+ builds per month
 IT Support Engineer @ OCP Laayoune (Jul 2022 - Sep 2022)
 Managed 30+ enterprise servers and core network infrastructure, sustaining 99%+ uptime
 Configured DHCP and DNS for a network supporting 100+ end users
-🏆 Achievements & Badges
+🏅 Achievements & Badges
 <p align="center">
   <a href="https://www.credly.com/badges/e2ef39dc-14f0-41a0-9a4b-ccdf87d73110/public_url">
     <img src="https://images.credly.com/size/220x220/images/ac70b3b2-cf90-4b4f-a838-f0289989efec/blob" height="120" alt="Best Computing Project Award" />
@@ -96,7 +101,7 @@ Databases & Tools
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
-📊 GitHub Stats
+📊 Stats and Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M07amedinc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M07amedinc&layout=compact&theme=tokyonight&hide_border=true" height="180" />
